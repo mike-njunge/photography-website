@@ -10,6 +10,7 @@ p.p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     line-height: 100%;
     font-size: 140%;
+
 }
  h1{
     font-family: 'Times New Roman', Times, serif;
@@ -93,4 +94,36 @@ nav ul, nav:active ul{
 nav li{
     padding: 8px 0 10px 7px;
     width: 100%;
+} 
+nav:hover ul{
+    display: block;
+    position: absolute;
+}
+#menu-icon {
+    width: 30px;
+    height: 26px;
+    background: url(images/menu.png) center;
+    display: inline-block;
+    margin: 50px 0 0 50px;
+}
+
+.column{
+    width: 60%;
+    float: left;
+    margin: 4% 0 4% 4%;
+} 
+.img {
+    width: 26%;
+    float: left;
+    margin: 4%;
+} 
+.po{
+    width: 29.333333%;
+    padding: 2%;
+    float: left;
+    text-align: center;
+
+}
+.po img:hover{
+    opacity: .6;
 }
