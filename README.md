@@ -9,7 +9,7 @@ This is a beautiful, elegant website theme for photography and portfolios. It us
 
 ## Browser support
 IE10+ and all modern browsers.
-You can visit it by clicking the link
+You can visit it by clicking the link (https://mike-njunge.github.io/photography-website/)
 
 ## License
 Photocraft is licensed under [the MIT License](https://opensource.org/licenses/MIT).
