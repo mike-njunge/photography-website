@@ -227,3 +227,11 @@ nav:hover ul{
 .btn:hover{
    background:var(--yellow);
 }
+footer{
+   background-color: blue;
+}
+footer p{
+   color: #fff;
+   text-align: center;
+   padding: 5%
+}
