@@ -1,4 +1,4 @@
-# Photocraft
+# Photography website
 
 ## Description
 This is a beautiful, elegant website theme for photography and portfolios. It uses modern HTML5 and CSS3.
@@ -8,8 +8,8 @@ This is a beautiful, elegant website theme for photography and portfolios. It us
 * HTML
 
 ## Browser support
-IE10+ and all modern browsers.
+This  project is supported by all modern browsers.
 You can visit it by clicking the link (https://mike-njunge.github.io/photography-website/)
 
 ## License
-Photocraft is licensed under [the MIT License](https://opensource.org/licenses/MIT).
+my project  is licensed under [the MIT License](https://opensource.org/licenses/MIT).
